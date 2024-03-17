@@ -1,5 +1,4 @@
-Olá, meu nome é Kauã Fabricio.
-Sou estudante de Ciência da Computação, entrei recentemente na área da tecnologia e estou amando demais!
-No momento, estou estudando para me tornar um Cientista de Dados.
-Quero contribuir com meu conhecimento para escolhas inteligentes, avanços graduais de startups e otimização.
+Olá! Meu nome é Kauã e estudo Ciência da Computação. 
+Sou apaixonado pela tecnologia e pelas possibilidades de seu uso para resolver diversos problemas do nosso dia a dia. 
+Meu foco principal é em Ciência de Dados e, no momento, me aprofundo em Análise de Dados.
 E-mail para contato: kauafabriiciio@gmail.com
